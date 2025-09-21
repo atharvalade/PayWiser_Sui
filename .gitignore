@@ -122,6 +122,10 @@ logs
 ehthumbs.db
 Thumbs.db
 
+# Sui binaries
+sui
+**/sui
+
 # Editor directories and files
 .vscode/
 .idea/
