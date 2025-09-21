@@ -1,0 +1,4 @@
+Sitemap: https://authentica.vercel.app/sitemap.xml
+
+User-agent: *
+Disallow: /api
