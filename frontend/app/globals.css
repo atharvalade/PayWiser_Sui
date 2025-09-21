@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './animations.css';
+
+/* Global styles */
+html {
+  scroll-behavior: smooth;
+}
