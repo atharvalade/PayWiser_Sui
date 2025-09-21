@@ -1,0 +1,36 @@
+{
+  "name": "paywiser-sui-backend",
+  "version": "1.0.0",
+  "description": "Backend for PayWiser - Sui blockchain money transfer application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mysten/sui": "^1.38.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "form-data": "^4.0.4",
+    "helmet": "^7.0.0",
+    "joi": "^17.9.2",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.2",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "sui",
+    "blockchain",
+    "wallet",
+    "transfer",
+    "usdc"
+  ],
+  "author": "PayWiser Team",
+  "license": "MIT"
+}
