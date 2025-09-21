@@ -137,3 +137,4 @@ For a production zkLogin implementation, you would need:
 3. **UI Testing**: All interface elements work regardless of OAuth setup
 
 The zkLogin section provides a complete UI experience and demonstrates the concepts, even with mock implementations! 🎉
+

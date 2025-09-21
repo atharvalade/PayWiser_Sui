@@ -44,3 +44,4 @@ console.log('- Health check: GET http://localhost:3000/health');
 console.log('- Create wallet: POST http://localhost:3000/api/wallet/create');
 
 console.log('\n✨ Setup completed successfully!');
+

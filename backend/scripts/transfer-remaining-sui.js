@@ -179,3 +179,4 @@ transferRemainingSUI().then(() => {
   console.error('\n💥 Script failed:', error.message);
   process.exit(1);
 });
+

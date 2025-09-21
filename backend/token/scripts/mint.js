@@ -113,3 +113,4 @@ if (!fs.existsSync(configPath)) {
 
 // Run minting
 mintTokens();
+

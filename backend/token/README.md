@@ -92,3 +92,4 @@ node scripts/mint.js
 5. Enable cross-chain functionality
 
 Let's get started! 🚀
+

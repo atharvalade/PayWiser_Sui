@@ -120,3 +120,4 @@ try {
 
 // Run deployment
 deployToken();
+

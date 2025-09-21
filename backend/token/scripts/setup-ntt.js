@@ -236,3 +236,4 @@ sui client call \\
 
 // Run NTT setup
 setupNTT();
+

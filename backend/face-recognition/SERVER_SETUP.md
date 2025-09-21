@@ -57,3 +57,4 @@ Your Google OAuth settings:
 ## 🎉 Ready to Test!
 
 Your Google OAuth is now properly configured. The other providers (Facebook, Twitch) still need setup if you want to test them, but Google should work immediately once you serve the app on the correct port.
+

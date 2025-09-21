@@ -177,3 +177,4 @@ module paywiser_token::paywiser_token {
         init(PAYWISER_TOKEN {}, ctx);
     }
 }
+

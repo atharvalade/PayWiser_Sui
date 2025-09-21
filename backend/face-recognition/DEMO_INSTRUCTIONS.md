@@ -67,3 +67,4 @@
 The Luxand Cloud API may have rate limits or usage restrictions. If you encounter API errors, wait a moment before trying again.
 
 Enjoy testing your face recognition system! 🎉
+

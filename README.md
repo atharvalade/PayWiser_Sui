@@ -384,3 +384,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ for the future of payments**
 
 *PayWiser - Where biometrics meet blockchain for seamless, secure payments.*
+
