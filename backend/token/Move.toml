@@ -1,0 +1,12 @@
+[package]
+name = "paywiser_token"
+version = "1.0.0"
+edition = "legacy"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "testnet-v1.14.2" }
+
+[addresses]
+paywiser_token = "0x0"
+
+[dev-dependencies]

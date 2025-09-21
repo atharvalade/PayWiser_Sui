@@ -1,0 +1,22 @@
+{
+  "packageId": "0x5ee7df19f113857e35fc001127a84d56d705a4ea8b0fc1d7cfff677e5d9076a4",
+  "treasuryCapId": "0x9bc3314168499a1b8cf0be9a00b33a55aff9c27aaafb6d74f2f9d4fcf60d72c4",
+  "tokenInfoId": "0x9223723ce7e63eb6e6c36565d44f5c74342c95089fe36d96fac77a5698041e47",
+  "mintCapId": "0xb10f4bd245bce0d5c7d51296b969ad180d02f60079e6939571eee36f92be9eb6",
+  "upgradeCapId": "0xb34059a11a8fe72d4ea5179bdb185ebc2f94a0b6ea57454321fe0e9bd434a4fc",
+  "coinMetadataId": "0x6616c8bd2931c0beaabdabf9574f479eb6f30ccfbf428a1cae748b260d550404",
+  "deployedAt": "2025-01-21T12:32:45.000Z",
+  "network": "testnet",
+  "transactionDigest": "GZxoXsJwNaDUXQwNEZXWiK9KmiVD6Yk1b5tY4Hg95LFK",
+  "deployerAddress": "0xf5276e5ce4bfb797ced9e7e9528d5b82a445b097fe503490bbae1b82fb42bb1a",
+  "tokenName": "PayWiser Token",
+  "tokenSymbol": "PWSR",
+  "decimals": 8,
+  "maxSupply": "10000000.00000000",
+  "gasUsed": {
+    "computationCost": "1000000",
+    "storageCost": "28804000",
+    "storageRebate": "978120",
+    "nonRefundableStorageFee": "9880"
+  }
+}

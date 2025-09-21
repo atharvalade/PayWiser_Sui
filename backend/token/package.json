@@ -1,0 +1,39 @@
+{
+  "name": "paywiser-token",
+  "version": "1.0.0",
+  "description": "PayWiser Token - NTT on Wormhole for cross-chain transfers",
+  "main": "scripts/deploy.js",
+  "scripts": {
+    "deploy": "node scripts/deploy.js",
+    "mint": "node scripts/mint.js",
+    "setup-ntt": "node scripts/setup-ntt.js",
+    "build": "sui move build",
+    "test": "sui move test",
+    "publish": "sui client publish --gas-budget 100000000",
+    "balance": "sui client balance",
+    "address": "sui client active-address"
+  },
+  "keywords": [
+    "sui",
+    "wormhole",
+    "ntt",
+    "token",
+    "cross-chain",
+    "paywiser",
+    "move"
+  ],
+  "author": "PayWiser Team",
+  "license": "MIT",
+  "dependencies": {
+    "@mysten/sui": "^1.38.0",
+    "@wormhole-foundation/sdk": "^0.9.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paywiser/paywiser-token"
+  },
+  "homepage": "https://paywiser.com"
+}
